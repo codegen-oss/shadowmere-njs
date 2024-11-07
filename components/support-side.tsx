@@ -14,7 +14,7 @@ import { parseISO } from "date-fns/esm";
 import { IconArrowRight, IconRotate, IconRotate2 } from "@tabler/icons-react";
 import Image from "next/image";
 import Link from "next/link";
-import NewFeature from "./newFeature";
+import new_name from "./newFeature";
 // import front from "../public/front.jpg";
 // import back from "../public/back.png";
 

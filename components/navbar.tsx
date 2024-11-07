@@ -2,7 +2,7 @@ import { useDarkMode } from "usehooks-ts";
 import React, { useEffect, useState } from "react";
 import Link from "next/link";
 import ToggleDarkMode from "./toogleDarkMode";
-import NewFeature from "./newFeature";
+import new_name from "./newFeature";
 import { useRecoilState } from "recoil";
 import { activeTab } from "../libs/store";
 import MenuMobile from "./menuMobile";

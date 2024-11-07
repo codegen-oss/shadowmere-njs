@@ -11,7 +11,7 @@ import {
   IconDownload,
   IconQrcode,
 } from "@tabler/icons-react";
-import NewFeature from "./newFeature";
+import new_name from "./newFeature";
 import NewServer from "./newServer";
 import Link from "next/link";
 import { rootUrl } from "../vars/variables";
